@@ -4,7 +4,7 @@
 
 ![](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)
 ![](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
-![](https://img.shields.io/badge/release-1.1.11-red.svg?style=flat)
+![](https://img.shields.io/badge/release-1.1.12-red.svg?style=flat)
 ![](https://img.shields.io/badge/Android-4.0%20--%209.0-blue.svg?style=flat)
 ![](https://img.shields.io/badge/arch-armeabi%20%7C%20armeabi--v7a%20%7C%20arm64--v8a%20%7C%20x86%20%7C%20x86__64-blue.svg?style=flat)
 
@@ -176,6 +176,17 @@ xhook_ignore(".*/libwebviewchromium.so$", NULL);
 //现在执行 hook!
 xhook_refresh(1);
 ```
+
+
+## 技术支持
+
+1. 查看 [xhook-sample](libbiz/jni)。
+2. 在 [GitHub issues](https://github.com/iqiyi/xHook/issues) 交流。
+3. 邮件: <a href="mailto:caikelun@gmail.com">caikelun@gmail.com</a>
+4. 微信: alan_choi
+5. QQ 群: 603635869。二维码:
+
+<p align="left"><img src="docs/qq_group.jpeg" alt="qq group" width="320px"></p>
 
 
 ## 贡献
